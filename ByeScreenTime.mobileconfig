@@ -231,13 +231,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile disables ScreenTime on iOS 12-14 (15 untested) on supervised devices.</string>
+	<string>このプロファイルは、iOSでのスクリーンタイムを無効化します。</string>
 	<key>PayloadDisplayName</key>
-	<string>ByeScreenTimeiOS</string>
+	<string>ByeScreenTime</string>
 	<key>PayloadIdentifier</key>
 	<string>com.appleenterprise.ByeScreenTimeiOS</string>
 	<key>PayloadOrganization</key>
-	<string>@SingleKeycap</string>
+	<string>@SingleKeycap 日本語訳:@paruru_05</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
